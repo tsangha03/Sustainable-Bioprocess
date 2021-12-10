@@ -736,6 +736,8 @@ md"""
 	1 mL for $40.50
 	Product number:59240
 	SKU:59240-1ML-F
+[Background on Maltose] (https://en.wikipedia.org/wiki/Maltose)
+[Background on Isoprene] (https://en.wikipedia.org/wiki/Isoprene)
 """
 
 # ╔═╡ 18b29a1a-4787-11ec-25e3-5f29ebd21430
