@@ -64,7 +64,7 @@ md"""
 
 # ╔═╡ 38b31db6-558a-433c-aefe-f5e829a752d3
 md"""
-###### The goal of the process is to create isoprene from maltose with a end flowrate of 1 g/hr with a 95% purity. Maltose is a disaccharide composed of two glucose molecules, while isoprene is an unsaturated hydrocarbon. In industry, isoprene is polymerized to make rubber for use in tires, moldings, and several other applications.
+###### The goal of the process is to create isoprene from maltose with a end flow rate of 1 g/hr with a 95% purity. Maltose is a disaccharide composed of two glucose molecules, while isoprene is an unsaturated hydrocarbon. In industry, isoprene is polymerized to make rubber for use in tires, moldings, and several other applications.
 """
 
 # ╔═╡ 40da982c-1cc4-4881-a2ea-fbeef5c46d2d
@@ -74,7 +74,7 @@ md"""
 
 # ╔═╡ 94b9bb59-e8cc-49ea-9830-52c8357a9e91
 md"""
-###### First, we had to find the reactants that would optimize the amount of isoprene flowing out. This was done by examining the reactions that contain both maltose and isoprene and working backwards in order to connect the two. Through this, we found that we needed maltose and oxygen, but when ran the code, we found out that isoprene can be made with just maltose. In order to keep the cost lower, we only added maltose to both streams. From there, we added reactor chips and chanegd the flow rate in the streams. 
+###### First, we had to find the reactants that would optimize the amount of isoprene flowing out. This was done by examining the reactions that contain both maltose and isoprene and working backwards in order to connect the two. Through this, we found that we needed maltose and oxygen, but when ran the code, we found out that isoprene can be made with just maltose. In order to keep the cost lower, we only added maltose to both streams. From there, we added reactor chips in order to change the flow rate to the desired amount with a purity at or above 95%. For the finanical aspect of the project, we found the cheapest maltose at Sigma-Aldrich and calculated the amount of mmoles used in a year and the price per mmole. Using excel, we found the operating cost and the capital expenditure. Then for the profit, we found the most expensive isoprene that was at a similar purity as the one created in the process and caluculated how much was produced in a year and how much we could sell it for. 
 """
 
 # ╔═╡ 71aa1557-57ae-440b-93b4-692c654b9530
