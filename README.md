@@ -1,2 +1,1 @@
-Link to the video:
-https://drive.google.com/file/d/1ZolX03cTFH2J6wDdOegsP6W0rs_evumN/view?usp=sharing
+We designed a sustainable bioprocess to convert maltose into isoprene using cell-free bioreactors and analyzed the financial returns using Julia
